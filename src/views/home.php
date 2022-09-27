@@ -6,13 +6,7 @@ include_once '../components/header.php';
     <main>
         <div class="clearfix">
             <img src="https://dkrn4sk0rn31v.cloudfront.net/uploads/2020/06/ARTIGO-ESTUDOS.png" alt="Seja Bem Vindo" class=" col-md-6 float-md-end mb-3 ms-md-3">
-            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Beatae architecto quas commodi quasi ratione esse quos nam debitis odio iusto illum delectus error perspiciatis inventore assumenda, dignissimos nihil ab voluptatibus!</p>
-            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Beatae architecto quas commodi quasi ratione esse quos nam debitis odio iusto illum delectus error perspiciatis inventore assumenda, dignissimos nihil ab voluptatibus!</p>
-            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Beatae architecto quas commodi quasi ratione esse quos nam debitis odio iusto illum delectus error perspiciatis inventore assumenda, dignissimos nihil ab voluptatibus!</p>
-            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Beatae architecto quas commodi quasi ratione esse quos nam debitis odio iusto illum delectus error perspiciatis inventore assumenda, dignissimos nihil ab voluptatibus!</p>
-            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Beatae architecto quas commodi quasi ratione esse quos nam debitis odio iusto illum delectus error perspiciatis inventore assumenda, dignissimos nihil ab voluptatibus!</p>
-            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Beatae architecto quas commodi quasi ratione esse quos nam debitis odio iusto illum delectus error perspiciatis inventore assumenda, dignissimos nihil ab voluptatibus!</p>
-            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Beatae architecto quas commodi quasi ratio >
+            <h1>SEJA BEM VINDO</h1>
         </div>
     </main>
 </div>
